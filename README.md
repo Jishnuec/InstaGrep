@@ -1,6 +1,3 @@
----
-
-````markdown
 # InstaGrep v4.0 🔍  
 ### Professional Instagram OSINT Toolkit
 
@@ -205,4 +202,3 @@ Professional Instagram OSINT Interface
 ---
 
 ⭐ If you find this project useful, consider starring the repository.
-
