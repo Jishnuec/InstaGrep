@@ -1,14 +1,9 @@
-<<<<<<< HEAD
 ---
 
 ````markdown
 # InstaGrep v4.0 🔍  
 ### Professional Instagram OSINT Toolkit
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-black)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![License](https://img.shields.io/badge/Use-Educational-orange)
 
 InstaGrep v4.0 is a modern GUI-based Instagram OSINT tool designed for researchers, cybersecurity learners, and digital investigators.
 
@@ -19,7 +14,7 @@ It provides structured profile analysis, activity visualization, media extractio
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/yourusername/instagrep.git
+git clone https://github.com/jishnuec/instagrep.git
 cd instagrep
 pip install -r requirements.txt
 python instagrep.py
@@ -30,7 +25,7 @@ python instagrep.py
 ## 🧪 Recommended Setup (Virtual Environment)
 
 ```bash
-git clone https://github.com/yourusername/instagrep.git
+git clone https://github.com/jishnuec/instagrep.git
 cd instagrep
 
 python -m venv my-venv
@@ -211,11 +206,3 @@ Professional Instagram OSINT Interface
 
 ⭐ If you find this project useful, consider starring the repository.
 
-```
-
----
-
-=======
-# InstaGrep
-🔍 InstaGrep - Professional Instagram OSINT Tool. Extract public profile data, analyze posting patterns, download media, generate reports. Features beautiful dark UI, keyboard navigation, recent searches, activity charts, and multi-format exports (JSON/Excel/PDF/HTML). Perfect for researchers and investigators.
->>>>>>> fcc007850c15cc15d8b24e23746f9050e3f49aab
