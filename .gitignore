@@ -1,0 +1,35 @@
+k# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+env/
+ENV/
+.venv
+my-venv/
+
+# InstaGrep specific
+cookies.json
+insta_session.json
+recent_searches.json
+*.db
+*.log
+
+# Downloads and exports
+downloads/
+*.xlsx
+*.pdf
+*.html
+_chart_*.png
+osint_*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
