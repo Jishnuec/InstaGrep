@@ -1,35 +1,61 @@
-k# Python
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
 venv/
 env/
 ENV/
-.venv
+.venv/
 my-venv/
+venv.bak/
 
-# InstaGrep specific
+# InstaGrep Specific - SESSION FILES (DO NOT COMMIT!)
 cookies.json
 insta_session.json
 recent_searches.json
 *.db
-*.log
+*.sqlite
+*.sqlite3
 
-# Downloads and exports
+# Downloads and Exports
 downloads/
 *.xlsx
 *.pdf
 *.html
 _chart_*.png
 osint_*.json
+activity_*.png
+*.csv
 
 # IDE
 .vscode/
 .idea/
 *.swp
 *.swo
-
-# OS
+*~
 .DS_Store
 Thumbs.db
+
+# Logs
+*.log
+logs/
