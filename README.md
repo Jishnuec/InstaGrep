@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 
 ````markdown
@@ -214,3 +215,7 @@ Professional Instagram OSINT Interface
 
 ---
 
+=======
+# InstaGrep
+🔍 InstaGrep - Professional Instagram OSINT Tool. Extract public profile data, analyze posting patterns, download media, generate reports. Features beautiful dark UI, keyboard navigation, recent searches, activity charts, and multi-format exports (JSON/Excel/PDF/HTML). Perfect for researchers and investigators.
+>>>>>>> fcc007850c15cc15d8b24e23746f9050e3f49aab
